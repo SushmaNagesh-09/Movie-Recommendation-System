@@ -10,7 +10,12 @@ There are 3 types of recommendation system.
 
 Workflow of the system:
 
-**Data Collection --> Data Pre-processing --> Feature Extraction --> User Input --> Cosine Similarity Algorithm --> Recommending list of Movies**
+1. Data Collection
+2. Data Pre-processing
+3. Feature Extraction
+4. User Input
+5. Cosine Similarity Algorithm
+6. Recommending list of Movies**
 
 Environment and Tools used:
 
